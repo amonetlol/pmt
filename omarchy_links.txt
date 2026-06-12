@@ -6,3 +6,4 @@ https://github.com/HANCORE-linux/omarchy-harbordark-theme
 
 VER:
 https://github.com/tuconnaisyouknow/HyprPunk
+https://github.com/Ilya22865/GlassyNiriConfig  //waybar
