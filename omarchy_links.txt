@@ -8,3 +8,6 @@ VER:
 https://github.com/tuconnaisyouknow/HyprPunk
 https://github.com/Ilya22865/GlassyNiriConfig  //waybar/wall-select/rofi/powermenu
 https://github.com/RishiIRL/Benihagane-Hyprland-Dotfiles
+
+
+https://github.com/berserkarch/berserk-core-repo
