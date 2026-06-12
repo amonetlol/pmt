@@ -1,1 +1,2 @@
 https://github.com/bjornramberg/omarchy-gojira-theme
+https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme
