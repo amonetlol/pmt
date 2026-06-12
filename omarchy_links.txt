@@ -1,3 +1,8 @@
 https://github.com/bjornramberg/omarchy-gojira-theme
 https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme
 https://github.com/HANCORE-linux/omarchy-harbordark-theme
+
+
+
+VER:
+https://github.com/tuconnaisyouknow/HyprPunk
